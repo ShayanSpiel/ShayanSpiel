@@ -1,209 +1,85 @@
 ````md
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Shayan+%C2%B7+runtime(building);Building+SpielOS;Work+IS+Content;Founder+work+%E2%86%92+publishable+content" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://spielos.xyz/SpielOS">
-    <img src="https://img.shields.io/badge/SpielOS-Install-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://spielos.xyz">
-    <img src="https://img.shields.io/badge/Website-spielos.xyz-black?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://x.com/ShayanSpiel">
-    <img src="https://img.shields.io/badge/X-@ShayanSpiel-black?style=for-the-badge&logo=x" />
-  </a>
-</p>
-
----
-
 # Shayan · runtime(building)
 
-I’m building **SpielOS**.
+I build systems around AI agents, dev tools, founder distribution, and strategy games.
 
-An operating system for turning founder work into content.
-
-Most technical founders already produce valuable raw material every day:
+Currently focused on **SpielOS**:  
+an operating system that turns founder work sessions into publishable content.
 
 ```txt
-IDE sessions
-agent conversations
-debugging decisions
-architecture tradeoffs
-shipping notes
-product thinking
+build session → structured draft → X / LinkedIn / blog / banner
 ````
 
-But after the work is done, most of it disappears.
+## What I care about
 
-SpielOS turns that work into distribution.
+I like products where the system itself does more of the work.
 
-```txt
-build session → structured content → X / LinkedIn / blog / banners
-```
+Not just prettier interfaces.
+Not just more AI wrappers.
+Better loops.
 
-The core idea:
+The areas I keep coming back to:
 
-> **Work IS Content.**
+* AI coding agents
+* local-first tools
+* founder distribution
+* content systems
+* strategy games
+* agentic simulations
+* open-source workflows
 
-Not “write more posts.”
-Not “become a creator.”
-Not “stop building and do marketing.”
-
-Just turn the work you already do into publishable output.
-
----
-
-## What I’m building
+## Current project
 
 ### SpielOS
 
-**SpielOS** lives inside your builder workflow.
+SpielOS is a local content system for technical founders.
 
-At the end of a session, you run:
+At the end of a build session, you run:
 
 ```txt
 /post
 ```
 
-And the system turns the session into:
+It turns the work you just did into content you can publish.
 
-* X posts
-* LinkedIn posts
-* technical blog drafts
-* founder build logs
-* visual banners
-* reusable content assets
+The idea is simple:
 
-The goal is simple:
+> Work IS Content.
 
-```txt
-Founder work should not die inside IDE agents.
-```
+Technical founders already create the raw material every day: debugging, product decisions, architecture tradeoffs, agent sessions, shipping notes.
 
----
+SpielOS turns that raw work into structured output.
 
-## Why this matters
+## Other things I build
 
-Technical founders do not have a content problem.
+I also work on experiments around:
 
-They have a **translation problem**.
+* agentic MMO / strategy game systems
+* AI-assisted product workflows
+* developer tooling
+* publishing pipelines
+* simulations and coordination mechanics
+* systems for turning messy work into usable output
 
-The insight is already inside the work:
+## Current questions
 
-* why they chose one approach
-* what broke
-* what they fixed
-* what they learned
-* what changed in the product
-* what tradeoff they made
+These are the questions I am building around:
 
-But publishing requires turning that into a format other people can understand.
-
-SpielOS is the layer between:
-
-```txt
-raw builder work <> public distribution
-```
-
----
-
-## Current focus
-
-I’m currently working on:
-
-```txt
-deterministic session capture
-AI coding agent workflows
-Session-as-Content
-founder distribution systems
-technical content generation
-local-first publishing tools
-open-source product distribution
-```
-
-The main problem I’m exploring:
-
-> How can technical founders build in public without becoming full-time content creators?
-
----
-
-## The category
-
-I call this:
-
-# Session-as-Content
-
-Every serious founder has sessions.
-
-Build sessions.
-Debug sessions.
-Strategy sessions.
-Agent sessions.
-Shipping sessions.
-
-SpielOS turns those sessions into content systems.
-
-```txt
-Session → Context → Draft → Format → Publish
-```
-
-That is the category I’m building toward.
-
----
-
-## Stack / areas I care about
-
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dev_Tools-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_Source-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Founder_Distribution-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Local_First-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Build_In_Public-black?style=flat-square" />
-</p>
-
-Tools and workflows I’m usually thinking about:
-
-```txt
-Codex
-Claude Code
-OpenCode
-Cursor
-IDE agents
-local workflows
-content pipelines
-publishing systems
-```
-
----
-
-## Featured idea
-
-```txt
-Builders already create the raw material.
-
-The problem is not creation.
-The problem is capture, structure, and distribution.
-```
-
-That is what SpielOS is trying to solve.
-
----
+* Can AI agents become part of the product workflow, not just coding assistants?
+* Can technical founders distribute without becoming full-time creators?
+* Can build sessions become reusable assets?
+* Can strategy games become more agentic, political, and alive?
+* Can local tools beat bloated SaaS for serious builders?
 
 ## Links
 
-* **SpielOS:** https://spielos.xyz/SpielOS
-* **Website:** https://spielos.xyz
-* **X / build logs:** https://x.com/ShayanSpiel
+* SpielOS: https://spielos.xyz/SpielOS
+* Website: https://spielos.xyz
+* X: https://x.com/ShayanSpiel
 
 ---
 
-<p align="center">
-  <strong>Build. Ship. Post.</strong>
-</p>
+Building in public, but mostly building the systems behind it.
 
-<p align="center">
-  <sub>Work IS Content.</sub>
-</p>
+```
 ```
