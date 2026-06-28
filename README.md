@@ -1,4 +1,3 @@
-````md
 # Shayan · runtime(building)
 
 I build systems around AI agents, dev tools, founder distribution, and strategy games.
@@ -8,7 +7,7 @@ an operating system that turns founder work sessions into publishable content.
 
 ```txt
 build session → structured draft → X / LinkedIn / blog / banner
-````
+```
 
 ## What I care about
 
