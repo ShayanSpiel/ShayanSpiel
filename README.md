@@ -2,12 +2,10 @@
 
 I build systems around AI agents, dev tools, founder distribution, and strategy games.
 
-Currently focused on **SpielOS**:  
+Currently focused on **SpielOS**:
 an operating system that turns founder work sessions into publishable content.
 
-```txt
-build session → structured draft → X / LinkedIn / blog / banner
-```
+**build session → structured draft → X / LinkedIn / blog / banner**
 
 ## What I care about
 
@@ -33,11 +31,7 @@ The areas I keep coming back to:
 
 SpielOS is a local content system for technical founders.
 
-At the end of a build session, you run:
-
-```txt
-/post
-```
+At the end of a build session, you run `/post`.
 
 It turns the work you just did into content you can publish.
 
@@ -79,6 +73,3 @@ These are the questions I am building around:
 ---
 
 Building in public, but mostly building the systems behind it.
-
-```
-```
