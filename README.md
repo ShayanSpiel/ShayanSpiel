@@ -1,68 +1,121 @@
 # Shayan · runtime(building)
 
-I build systems around AI agents, dev tools, founder distribution, and strategy games.
+I’m a marketing strategist turned systems builder.
 
-Currently focused on **SpielOS**:
-an operating system that turns founder work sessions into publishable content.
+I used to think distribution was mostly a messaging problem.
 
-**build session → structured draft → X / LinkedIn / blog / banner**
+Now I think it is a systems problem.
 
-## What I care about
+So I build tools, games, and workflows around one question:
 
-I like products where the system itself does more of the work.
+> what if the work itself could become the asset?
 
-Not just prettier interfaces.
-Not just more AI wrappers.
-Better loops.
+## What I build
 
-The areas I keep coming back to:
+I build around AI agents, founder distribution, dev tools, and strategy games.
 
-* AI coding agents
-* local-first tools
-* founder distribution
-* content systems
-* strategy games
-* agentic simulations
-* open-source workflows
+My projects usually sit somewhere between:
 
-## Current project
+* product systems
+* agent workflows
+* publishing pipelines
+* simulation mechanics
+* open-source tooling
+* founder operating systems
+
+I care less about “AI wrappers” and more about loops.
+
+Capture loops.
+Feedback loops.
+Distribution loops.
+Game loops.
+Agent loops.
+
+## Current main project
 
 ### SpielOS
 
-SpielOS is a local content system for technical founders.
-
-At the end of a build session, you run `/post`.
-
-It turns the work you just did into content you can publish.
+SpielOS is the operating system I’m building for technical founders who ship more than they post.
 
 The idea is simple:
 
 > Work IS Content.
 
-Technical founders already create the raw material every day: debugging, product decisions, architecture tradeoffs, agent sessions, shipping notes.
+Founders already create the raw material every day:
 
-SpielOS turns that raw work into structured output.
+* debugging decisions
+* architecture tradeoffs
+* agent sessions
+* product notes
+* failed attempts
+* shipping logs
+* weird technical discoveries
 
-## Other things I build
+But most of it dies inside IDE agents, terminal history, and private notes.
 
-I also work on experiments around:
+SpielOS turns build sessions into publishable content.
 
-* agentic MMO / strategy game systems
+**session → context → draft → format → publish**
+
+At the end of a session, you run `/post`.
+
+The system turns the work you just did into X posts, LinkedIn posts, blog drafts, and visual content assets.
+
+Not generic AI content.
+
+Content from actual work.
+
+## Why I’m building it
+
+Technical founders do not need to become full-time creators.
+
+They need a system that translates their work into public proof.
+
+That is the category I’m exploring:
+
+### Session-as-Content
+
+Every build session already has a story inside it.
+
+SpielOS is trying to capture that story before it disappears.
+
+## Other things I’m building
+
+I’m also building and experimenting with:
+
+* an agentic MMO / modern strategy game
 * AI-assisted product workflows
-* developer tooling
-* publishing pipelines
-* simulations and coordination mechanics
-* systems for turning messy work into usable output
+* local-first publishing systems
+* deterministic session capture
+* founder content infrastructure
+* simulations where agents, players, and economies interact
+
+The common thread is always the same:
+
+> turn messy work into usable systems.
+
+## Background
+
+I come from marketing strategy.
+
+That means I do not only care whether something works technically.
+
+I care whether it creates leverage.
+
+Can it be understood?
+Can it spread?
+Can it compound?
+Can it create a new behavior?
+
+That is the part I keep obsessing over.
 
 ## Current questions
 
-These are the questions I am building around:
-
+* Can technical founders distribute without becoming content creators?
 * Can AI agents become part of the product workflow, not just coding assistants?
-* Can technical founders distribute without becoming full-time creators?
 * Can build sessions become reusable assets?
-* Can strategy games become more agentic, political, and alive?
 * Can local tools beat bloated SaaS for serious builders?
+* Can strategy games become more political, agentic, and alive?
 
 ## Links
 
@@ -72,4 +125,4 @@ These are the questions I am building around:
 
 ---
 
-Building in public, but mostly building the systems behind it.
+Building systems where the work does not disappear after it is done.
