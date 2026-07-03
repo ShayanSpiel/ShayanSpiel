@@ -8,7 +8,7 @@ I track the model wars, infra shifts, and AI market pressure.
 
 Then I build small founder/dev tools from the wreckage.
 
-Currently building **CacheCatch** and **SpielOS**.
+Currently building **[CacheCatch](https://cachecatch.spielos.xyz/)** and **[SpielOS](https://spielos.xyz/SpielOS/)**.
 
 **Work becomes proof. Systems create distribution.**
 
