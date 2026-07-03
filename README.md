@@ -159,10 +159,10 @@ The common thread:
 
 | Project | What it is | Link |
 | ------- | ---------- | ---- |
-| CacheCatch | prompt-cache audit for AI agents | https://cachecatch.spielos.xyz |
-| SpielOS | session-as-content system for technical founders | https://spielos.xyz |
-| GeoGent | agentic geopolitical MMO experiment | coming later |
-| Vibebaba | open-source LangGraph vibe-coding experiment | archived / ended |
+| CacheCatch | prompt-cache audit for AI agents | [CacheCatch](https://cachecatch.spielos.xyz) |
+| SpielOS | session-as-content system for technical founders | [SpielOS](https://spielos.xyz/SpielOS) |
+| GeoGent | agentic geopolitical MMO experiment | [Waitlist](https://spielos.xyz) |
+| Vibebaba | open-source role based(PM → UX → FE → BE → Tech-Lead)  LangGraph vibe-coding experiment | [ended / open-sourced](https://github.com/ShayanSpiel/vibebaba) |
 
 ---
 
