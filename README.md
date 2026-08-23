@@ -1,240 +1,134 @@
 <div align="center">
 
-# Shayan · runtime(building)
+# Shayan Spiel
 
-### Marketing strategist turned systems builder
+**Founder of [SpielOS](https://spielos.xyz) — AI implementation for businesses that already work**
 
-I track the model wars, infra shifts, and AI market pressure.
-
-Then I build small founder/dev tools from the wreckage.
-
-Currently building **[CacheCatch](https://cachecatch.spielos.xyz/)** and **[SpielOS](https://spielos.xyz/SpielOS/)**.
-
-**Work becomes proof. Systems create distribution.**
+I take the repetitive work your team still does by hand — intake, delivery, support,
+reporting, scheduling, bookkeeping runs — and turn it into supervised AI workers
+that run it every day, with humans in charge.
 
 </div>
 
 ---
 
-## The short version
+## What SpielOS does
 
-I used to think distribution was mostly a messaging problem.
+Two problems, one monthly rate:
 
-Now I think it is a systems problem.
+| | Service | What it means |
+| --- | --- | --- |
+| 🤖 | **[AI Workers](https://spielos.xyz/services/)** | Hand repetitive business work to supervised AI agents — agentic workflows that execute real operations, not chat demos |
+| 🔧 | **[AI DeSlopping](https://spielos.xyz/services/)** | Fix broken AI-built software — fragile, confusing tools that became hard to maintain get rebuilt into systems that hold |
 
-The market is shifting fast:
+**$2,990/month · One active build at a time · No hourly billing, no lock-in**
 
-- frontier labs are turning models into infrastructure
-- open-weight models are attacking the wedge
-- agents are changing how builders work
-- token cost, context, and distribution are becoming product problems
+### 👉 Start here: [Apply — Free Review](https://spielos.xyz/apply/)
 
-So I build tools around one question:
+*Free review · No required call · See the scope before you pay*
 
-> What hidden work is already valuable, but not captured yet?
-
-Most people try to create more content.
-
-I’m more interested in capturing the value already buried inside:
-
-- build sessions
-- agent traces
-- prompt context
-- debugging logs
-- product decisions
-- technical failures
-- market observations
-
-Turn messy work into usable systems.
-
-That is the loop.
+You describe what keeps breaking or what eats your team's hours. You get a clear
+scope and result before any build starts — and before any payment.
 
 ---
 
-## Current focus
+## Who this is for
 
-# CacheCatch
+Established online businesses and service providers that already have real customers,
+an active website, and a working sales or delivery funnel — but are doing too much
+repetitive knowledge-work manually:
 
-CacheCatch is a prompt-cache audit tool for AI agents.
+- Ecommerce brands & marketplaces
+- Travel companies
+- Agencies & consultancies (non-AI)
+- Coaches & education businesses
+- Accounting & bookkeeping firms
+- Online service businesses & SaaS with real operations
 
-It scans local coding-agent sessions and trace data, then shows:
+Typically **$1M–$25M+ annual revenue**. The buyer is the person who owns the
+operation and the money — owner, CEO, COO, senior operator. Technical expertise
+is neither required nor assumed.
 
-| Agent workflow signal | CacheCatch output |
-| --------------------- | ----------------- |
-| repeated context      | cache profile     |
-| tool calls            | context hygiene   |
-| prompt structure      | cache breakers    |
-| agent sessions        | token activity    |
-| unstable prefixes     | fix plan          |
-| model usage           | cost signal       |
-
-The goal is simple:
-
-```text
-find repeated context → detect cache breaks → fix prompt layout
-```
-
-Not generic observability.
-
-Not another dashboard.
-
-A cache report builders can actually act on.
+**Not a fit:** pre-revenue startups looking for "an AI idea," or people who want
+to build their own agent system. This is for operators who want the work done.
 
 ---
 
-## SpielOS
+## Proof: we run on AI ourselves
 
-SpielOS is my broader system for turning founder work into distribution.
+SpielOS is not a slide deck. The company itself runs through supervised AI
+departments — goals, runs, approvals, evidence, reports. The live company record
+is public:
 
-At the end of a build session, you run:
-
-```text
-/post
-```
-
-SpielOS turns the work you just did into:
-
-| Raw work               | Publishable output      |
-| ---------------------- | ----------------------- |
-| IDE agent sessions     | X posts                 |
-| debugging notes        | LinkedIn posts          |
-| architecture decisions | technical blog drafts   |
-| shipping logs          | visual content assets   |
-| product thinking       | build-in-public updates |
-
-The flow:
-
-```text
-session → context → draft → format → publish
-```
-
-Not “write me a viral post.”
-
-Content from actual work.
+**📊 See it running → [spielos.xyz/live](https://spielos.xyz/live/)**
 
 ---
 
-## The thesis
+## How it works
 
-Technical founders do not need to become full-time creators.
+1. **[Apply — Free Review](https://spielos.xyz/apply/)** — describe one workflow that keeps breaking or eats hours
+2. **Review & Agent Brief** — we map the loop and define the scope, in plain language
+3. **Build** — one active build at a time, measured against your output, quality, and cost
+4. **Handover** — workers keep running; you see the numbers, not the plumbing
 
-They need systems that turn their work into public proof.
+The full model — Director, Departments, Workflows, Agents, Evals — is documented
+openly: **[How SpielOS works →](https://spielos.xyz/features/)**
 
-Every serious builder already has raw material:
-
-- debugging decisions
-- failed attempts
-- product tradeoffs
-- agent conversations
-- architecture notes
-- shipping logs
-- weird technical discoveries
-
-But most of it dies inside terminals, IDE agents, private notes, and forgotten chats.
-
-I build systems to stop that.
+Real department use cases (Design, Content, Marketing, SEO, Analytics):
+**[spielos.xyz/use-cases](https://spielos.xyz/use-cases/)**
 
 ---
 
-## What I build around
+## Pricing
 
-| Area                 | What I care about                                           |
-| -------------------- | ----------------------------------------------------------- |
-| AI agents            | agents as workflow infrastructure, not just chat boxes      |
-| Prompt/context ops   | making agent context cheaper, cleaner, and more reusable    |
-| Dev tools            | tools that live where builders already work                 |
-| Founder distribution | turning work into public proof                              |
-| AI markets           | model wars, infra shifts, open-weight pressure              |
-| Local-first systems  | less SaaS bloat, more ownership                             |
-| Strategy games       | economies, politics, coordination, simulation               |
-| Open source          | distribution through useful artifacts                       |
+One monthly rate, built around results, not hours:
 
-The common thread:
+**[$2,990/month — one active build at a time →](https://spielos.xyz/pricing/)**
 
-> Capture the hidden system inside the work.
+Applying comes before payment. Pricing exists to support the decision, never to lead it.
 
 ---
 
-## Projects
+## Notes & writing
 
-| Project | What it is | Link |
-| ------- | ---------- | ---- |
-| CacheCatch | prompt-cache audit for AI agents | [CacheCatch](https://cachecatch.spielos.xyz) |
-| SpielOS | session-as-content system for technical founders | [SpielOS](https://spielos.xyz/SpielOS) |
-| GeoGent | agentic geopolitical MMO experiment | [Waitlist](https://spielos.xyz) |
-| Vibebaba | open-source role based(PM → UX → FE → BE → Tech-Lead)  LangGraph vibe-coding experiment | [ended / open-sourced](https://github.com/ShayanSpiel/vibebaba) |
+I write about agent systems, context, workflows, evaluations, product failures,
+and building SpielOS itself:
 
----
+**📝 [spielos.xyz/notes](https://spielos.xyz/notes/)**
 
-## Category I’m exploring
-
-# Session-as-Content
-
-Every build session already has a story inside it.
-
-The problem is not:
-
-```text
-make more content
-```
-
-The problem is:
-
-```text
-capture → structure → narrative → distribution
-```
-
-That is the layer I’m building.
+More about me and why I build this:
+**[Founder story →](https://spielos.xyz/founder/)**
 
 ---
 
-## Background
+## Open-source artifacts
 
-I come from marketing strategy.
+Side outputs from running an AI-operated company — useful if you build with agents yourself:
 
-That means I do not only care whether something works technically.
-
-I care whether it creates leverage.
-
-Can it be understood?
-
-Can it spread?
-
-Can it compound?
-
-Can it create a new behavior?
-
-That is the part I keep obsessing over.
-
----
-
-## Current questions
-
-These are the questions behind most of my work:
-
-- Can technical founders distribute without becoming content creators?
-- Can AI agents become part of the product workflow, not just coding assistants?
-- Can prompt caching become the new prompt engineering?
-- Can build sessions become reusable assets?
-- Can local tools beat bloated SaaS for serious builders?
-- Can AI market shifts be turned into useful founder tools?
-- Can strategy games become more political, agentic, and alive?
-- Can work become content without turning builders into influencers?
+| Project | What it is |
+| --- | --- |
+| [Skills](https://github.com/ShayanSpiel/Skills) | Production-grade agent skills: content, translation, SEO, analytics, design systems |
+| [Lead-Researcher](https://github.com/ShayanSpiel/Lead-Researcher) | Find qualified leads from your ICP with a coding assistant |
+| [CacheCatch](https://github.com/ShayanSpiel/CacheCatch) | Prompt-cache audit tool — finds context waste and hidden agent cost leaks |
 
 ---
 
 ## Links
 
-| Project / profile | Link |
-| ----------------- | ---- |
-| CacheCatch | https://cachecatch.spielos.xyz |
-| SpielOS / website | https://spielos.xyz |
-| X / build logs | https://x.com/ShayanSpiel |
+| | |
+| --- | --- |
+| 🌐 Website | [spielos.xyz](https://spielos.xyz) |
+| ✉️ Apply — Free Review | [spielos.xyz/apply](https://spielos.xyz/apply/) |
+| 📋 Services | [spielos.xyz/services](https://spielos.xyz/services/) |
+| 📊 Live company record | [spielos.xyz/live](https://spielos.xyz/live/) |
+| 🐦 X / build logs | [@ShayanSpiel](https://x.com/ShayanSpiel) |
 
 ---
 
 <div align="center">
 
-### Building systems where the work does not disappear after it is done.
+**Build a business that runs without you.**
+
+[Apply — Free Review →](https://spielos.xyz/apply/)
 
 </div>
