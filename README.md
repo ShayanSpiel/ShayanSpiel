@@ -2,7 +2,7 @@
 
 # Shayan Spiel
 
-**Founder of [SpielOS](https://spielos.xyz) — AI implementation for businesses that already work**
+**Founder of [SpielOS](https://github.com/ShayanSpiel/SpielOS) — an AI Company Operating System · [AI implementation for businesses that already work](https://spielos.xyz)**
 
 I take the repetitive work your team still does by hand — intake, delivery, support,
 reporting, scheduling, bookkeeping runs — and turn it into supervised AI workers
@@ -75,7 +75,7 @@ The full model — Director, Departments, Workflows, Agents, Evals — is docume
 openly: **[How SpielOS works →](https://spielos.xyz/features/)**
 
 Real department use cases (Design, Content, Marketing, SEO, Analytics):
-**[spielos.xyz/use-cases](https://spielos.xyz/use-cases/)**
+**[spielos.xyz/solutions →](https://spielos.xyz/solutions/)**
 
 ---
 
@@ -89,27 +89,64 @@ Applying comes before payment. Pricing exists to support the decision, never to 
 
 ---
 
-## Notes & writing
+## Open source: AI workers & departments
 
-I write about agent systems, context, workflows, evaluations, product failures,
-and building SpielOS itself:
+Everything below comes out of one system — [SpielOS](https://github.com/ShayanSpiel/SpielOS),
+an **open-source AI company operating system** — decomposed into standalone workers
+you can run yourself. Every worker installs with **one pasted command** into
+[Claude Code](https://claude.com/claude-code), [OpenCode](https://opencode.ai),
+or [Codex CLI](https://github.com/openai/codex) — and works immediately.
+No servers. No accounts. Your data never leaves your machine.
 
-**📝 [spielos.xyz/notes](https://spielos.xyz/notes/)**
+Want the same workers built, supervised, and measured *for* your business?
+That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review](https://spielos.xyz/apply/).
 
-More about me and why I build this:
-**[Founder story →](https://spielos.xyz/founder/)**
+### 📡 Outbound automation department
 
----
+| Project | What it does |
+| --- | --- |
+| **[Lead Researcher](https://github.com/ShayanSpiel/Lead-Researcher)** — AI lead research agent | Give your AI assistant one job: find N qualified leads from your Ideal Customer Profile and don't stop until it's done. Evidence-checked, batch loop, survives restarts. |
+| 📋 Social Lead Researcher — *LinkedIn lead research agent* | Qualified LinkedIn & X prospects from authorized public signals. Extracted from the Outbound Department's social-lead-research workflow. On the roadmap. |
+| 📋 Email Outreach Agent — *cold email automation agent* | Personalized, validated cold email with a mandatory human approval gate before anything sends. Extracted from the email-outreach workflow. On the roadmap. |
 
-## Open-source artifacts
+### 🔍 SEO automation department
 
-Side outputs from running an AI-operated company — useful if you build with agents yourself:
+| Project | What it does |
+| --- | --- |
+| 📋 AI Keyword Research Agent — *AI keyword research automation skill* | Evidence-backed keyword opportunity maps from real Search Console queries — clustered, scored, zero invented volume. On the roadmap. |
+| 📋 SEO Audit Agent — *automated technical SEO audits* | Crawl, indexability, canonicalization, hreflang, structured data, sitemaps — audited by your own coding agent. On the roadmap. |
+
+### ✍️ Content production department
+
+| Project | What it does |
+| --- | --- |
+| 📋 Content Production Agent — *AI content pipeline agent* | One idea → brief → draft → editorial eval → publish-ready package, all inside your coding agent. On the roadmap. |
+
+### 📊 Analytics department
+
+| Project | What it does |
+| --- | --- |
+| 📋 Analytics Agent — *marketing analytics automation* | Scorecards, funnel analysis, and attribution queries against your PostHog/GA4 — reported as evidence, not screenshots. On the roadmap. |
+
+### 🧰 Cross-cutting tools & skills
+
+| Project | What it does |
+| --- | --- |
+| **[Skills](https://github.com/ShayanSpiel/Skills)** — agent skills library | Production-grade skills for content writing, translation, SEO, analytics, design systems, video creation. Ready to drop into any agent. |
+| **[CacheCatch](https://github.com/ShayanSpiel/CacheCatch)** — prompt cache audit tool | Audits AI agent context and shows what to move so repeated tokens hit cache — finds hidden agent cost leaks. |
+| **[SpielOS](https://github.com/ShayanSpiel/SpielOS)** — AI company operating system | The whole harness: Goals, Runs, Workers, Departments, Evals, one Director loop (OBSERVE → DECIDE → ACT → EVALUATE). Install: `pipx install spielos && spielos init` |
+| **[homebrew-spielos](https://github.com/ShayanSpiel/homebrew-spielos)** | Homebrew tap for SpielOS: `brew install ShayanSpiel/spielos/spielos` |
+
+<details>
+<summary><strong>Experiments & history</strong></summary>
 
 | Project | What it is |
 | --- | --- |
-| [Skills](https://github.com/ShayanSpiel/Skills) | Production-grade agent skills: content, translation, SEO, analytics, design systems |
-| [Lead-Researcher](https://github.com/ShayanSpiel/Lead-Researcher) | Find qualified leads from your ICP with a coding assistant |
-| [CacheCatch](https://github.com/ShayanSpiel/CacheCatch) | Prompt-cache audit tool — finds context waste and hidden agent cost leaks |
+| [vibebaba](https://github.com/ShayanSpiel/vibebaba) | An abandoned open-source vibe-coding platform experiment — kept public as a field record. If your own vibe-coded project ended up like this, that's literally the [DeSlopping](https://spielos.xyz/services/) problem. |
+| [ShayanWiki](https://github.com/ShayanSpiel/ShayanWiki) | Markdown-based wiki with content pipeline. |
+| [Spiel-OS](https://github.com/ShayanSpiel/Spiel-OS) / [SpielCLI](https://github.com/ShayanSpiel/SpielCLI) | Earlier generations of the marketing-team-in-your-IDE idea. Superseded by [SpielOS](https://github.com/ShayanSpiel/SpielOS). |
+
+</details>
 
 ---
 
