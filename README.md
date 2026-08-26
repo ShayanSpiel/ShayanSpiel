@@ -120,13 +120,13 @@ That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review
 
 | Project | What it does |
 | --- | --- |
-| 📋 Content Production Agent — *AI content pipeline agent* | One idea → brief → draft → editorial eval → publish-ready package, all inside your coding agent. On the roadmap. |
+| **[Content Production Agent](https://github.com/ShayanSpiel/Content-Production-Agent)** — *AI content pipeline agent* | Deep, structured articles written to your voice file; AI-slop patterns rejected by the engine; you approve every piece before it ships. |
 
 ### 📊 Analytics department
 
 | Project | What it does |
 | --- | --- |
-| 📋 Analytics Agent — *marketing analytics automation* | Scorecards, funnel analysis, and attribution queries against your PostHog/GA4 — reported as evidence, not screenshots. On the roadmap. |
+| **[Analytics Agent](https://github.com/ShayanSpiel/Analytics-Agent)** — *marketing analytics automation* | Your AI runs real queries in PostHog/GA4/Search Console and records results with full provenance (source + exact query). No invented numbers. |
 
 ### 🧰 Cross-cutting tools & skills
 
