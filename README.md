@@ -114,7 +114,7 @@ That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review
 | Project | What it does |
 | --- | --- |
 | **[AI Keyword Research Agent](https://github.com/ShayanSpiel/AI-Keyword-Research-Agent)** — *AI keyword research automation skill* | Give your AI assistant one job: find N real keyword opportunities for your business and don't stop until it's done. Clustered, intent-scored, evidence-backed — zero invented volume, no API keys. |
-| 📋 SEO Audit Agent — *automated technical SEO audits* | Crawl, indexability, canonicalization, hreflang, structured data, sitemaps — audited by your own coding agent. On the roadmap. |
+| **[SEO Audit Agent](https://github.com/ShayanSpiel/SEO-Audit-Agent)** — *automated technical SEO audits* | Your AI fetches live pages and collects facts; a deterministic engine scores them (same facts = same verdict) and writes the prioritized fix report. Read-only by design. |
 
 ### ✍️ Content production department
 
