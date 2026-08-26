@@ -136,6 +136,7 @@ That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review
 | **[CacheCatch](https://github.com/ShayanSpiel/CacheCatch)** — prompt cache audit tool | Audits AI agent context and shows what to move so repeated tokens hit cache — finds hidden agent cost leaks. |
 | **[SpielOS](https://github.com/ShayanSpiel/SpielOS)** — AI company operating system | The whole harness: Goals, Runs, Workers, Departments, Evals, one Director loop (OBSERVE → DECIDE → ACT → EVALUATE). Install: `pipx install spielos && spielos init` |
 | **[homebrew-spielos](https://github.com/ShayanSpiel/homebrew-spielos)** | Homebrew tap for SpielOS: `brew install ShayanSpiel/spielos/spielos` |
+| **[SpielOS Workers](https://github.com/ShayanSpiel/SpielOS-Workers)** — AI automation playbook catalog | Copy-paste recipes that turn your AI coding assistant into an invoice-processing, client-onboarding, lead-qualification, Notion/Gmail/HubSpot automation builder — 22 real client workflows documented step by step. |
 
 <details>
 <summary><strong>Experiments & history</strong></summary>
@@ -144,7 +145,7 @@ That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review
 | --- | --- |
 | [vibebaba](https://github.com/ShayanSpiel/vibebaba) | An abandoned open-source vibe-coding platform experiment — kept public as a field record. If your own vibe-coded project ended up like this, that's literally the [DeSlopping](https://spielos.xyz/services/) problem. |
 | [ShayanWiki](https://github.com/ShayanSpiel/ShayanWiki) | Markdown-based wiki with content pipeline. |
-| [Spiel-OS](https://github.com/ShayanSpiel/Spiel-OS) / [SpielCLI](https://github.com/ShayanSpiel/SpielCLI) | Earlier generations of the marketing-team-in-your-IDE idea. Superseded by [SpielOS](https://github.com/ShayanSpiel/SpielOS). |
+| [SpielCLI](https://github.com/ShayanSpiel/SpielCLI) | Earlier generation of the marketing-team-in-your-IDE idea. Superseded by [SpielOS](https://github.com/ShayanSpiel/SpielOS). |
 
 </details>
 
