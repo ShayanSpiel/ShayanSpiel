@@ -107,7 +107,7 @@ That's the [paid side](https://spielos.xyz/services/) → [Apply — Free Review
 | --- | --- |
 | **[Lead Researcher](https://github.com/ShayanSpiel/Lead-Researcher)** — AI lead research agent | Give your AI assistant one job: find N qualified leads from your Ideal Customer Profile and don't stop until it's done. Evidence-checked, batch loop, survives restarts. |
 | **[Social Lead Researcher](https://github.com/ShayanSpiel/Social-Lead-Researcher)** — *LinkedIn lead research agent* | Find qualified LinkedIn & X prospects from your ICP and don't stop until it's done. Research-only, recent-signal-backed, human decides contact. |
-| 📋 Email Outreach Agent — *cold email automation agent* | Personalized, validated cold email with a mandatory human approval gate before anything sends. Extracted from the email-outreach workflow. On the roadmap. |
+| **[Email Outreach Agent](https://github.com/ShayanSpiel/Email-Outreach-Agent)** — *cold email automation agent* | Your AI drafts personalized emails from real research; YOU approve each one; nothing ever auto-sends. Pairs with Lead Researcher for a fully local outbound pipeline. |
 
 ### 🔍 SEO automation department
 
